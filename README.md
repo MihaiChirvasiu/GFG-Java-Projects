@@ -1,2 +1,3 @@
 # GFG-Java-Projects
-## [Currency Converter](https://github.com/MihaiChirvasiu/Currency-Converter)
+## Index for all projects from GeeksForGeeks Java Projects webpage.
+### - [Currency Converter](https://github.com/MihaiChirvasiu/Currency-Converter)
